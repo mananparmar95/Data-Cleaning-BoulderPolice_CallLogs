@@ -1,0 +1,6 @@
+Column Name,Definition
+Incident_ID,Unique identifier for call.
+ResponseDate,Date and time that the call was received.
+CaseNumber,Case number associated with the incident. Case numbers can be added up to 24 hours after a call's response date. Blank cells indicate there was no police report generated for the particular call.
+HundredBlock,Address (rounded up to hundred block location) of the incident.
+Problem,Code for the problem associated with the call.  I/P indicates 'in progress'.
